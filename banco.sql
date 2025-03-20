@@ -15,7 +15,7 @@ primary key (ID),
 select * from allunos;
 
 insert into allunos (Nome,Telefone)
-values ('RYAM','68996023092')
+values ('RYAM','68996023092'),('luis', '68992259137')
 
 
 Update allunos 
@@ -24,4 +24,5 @@ where nome = '68996023092'
 
 
 
+--------------------------------------------------------------
 
